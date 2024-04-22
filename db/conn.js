@@ -6,7 +6,6 @@ const sequelize = new Sequelize('carrinho', 'root', '', {
 })
 
 try {
-
     sequelize.authenticate()
     console.log('Sequelize conectado com sucesso!')
 } catch(err) {
