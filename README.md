@@ -1,1 +1,1 @@
-Projeto para treino em criação de APIS
+criacão de uma API de carrinho de compras.
