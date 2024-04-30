@@ -1,1 +1,1 @@
-Projeto para treino em criação de APIS
+Cadastro de produtos nodeJS.
